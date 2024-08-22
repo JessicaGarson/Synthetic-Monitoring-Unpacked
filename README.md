@@ -20,7 +20,7 @@ SYNTHETICS_API_KEY=<value> npm run push
 ```
 
 ## Recorded code
-Code generated from the [Elastic Synthetics Recorder](https://www.elastic.co/guide/en/observability/current/synthetics-recorder.html) can be found in [here.](/recorded.journey.js)
+Code generated from the [Elastic Synthetics Recorder](https://www.elastic.co/guide/en/observability/current/synthetics-recorder.html) can be found in [here.](https://github.com/JessicaGarson/Synthetic-Monitoring-Unpacked/blob/main/projects-test/journeys/recorded.journey.js))
 
 ## Slides
 You can find slides from versions of this talk in the folder entitled [slides](/slides).
