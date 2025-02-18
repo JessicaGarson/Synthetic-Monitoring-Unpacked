@@ -7,3 +7,11 @@ heartbeat.monitors:
   schedule: '@every 3m'
   timeout: 16s
   alert.status.enabled: true
+- type: http
+  name: Lightweight elk store
+  id: elk-store-lightweight
+  enabled: true
+  urls: "https://react-elk-store.vercel.app"
+  schedule: '@every 3m'
+  timeout: 16s
+  alert.status.enabled: true
