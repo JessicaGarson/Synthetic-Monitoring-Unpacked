@@ -1,8 +1,9 @@
 # Synthetic Monitoring Unpacked
 Synthetic monitoring in Elastic allows you to track user pathways using global testing infrastructure to gauge the influence of web and front-end performance on user experience. This code sample aims to walk you through how to get started with synthetic monitoring.
 
-## Demo application
-The [demo application](https://demo-store-ivory.vercel.app/products) is a simple example application that emulates a web store. The code used to create it is in [this repository](https://github.com/JessicaGarson/demo-store).
+## Demo applications
+- The [Next.js demo application](https://demo-store-ivory.vercel.app/products) is a simple example application that emulates a web store. The code used to create it is in [this repository](https://github.com/JessicaGarson/demo-store).
+- There is also a [React demo application](https://react-elk-store.vercel.app/). You can find the code in the [corresponding repository](https://github.com/JessicaGarson/react-elk-store).
 
 ## Montioring code
 The code has been adopted from the process outlined in the [getting started documentation](https://www.elastic.co/guide/en/observability/current/synthetics-get-started-project.html). It can be found in the projects-test [folder](/projects-test).
