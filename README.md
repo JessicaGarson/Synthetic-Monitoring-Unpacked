@@ -27,8 +27,10 @@ Code generated from the [Elastic Synthetics Recorder](https://www.elastic.co/gui
 You can find slides from versions of this talk in the folder entitled [slides](/slides).
 
 ## Resources
+- [Synthetic monitoring](https://www.elastic.co/observability/synthetic-monitoring)
 - [Documention on the subject](https://www.elastic.co/guide/en/observability/current/monitor-uptime-synthetics.html)
 - [Two sides of the same coin: Uniting testing and monitoring with Synthetic Monitoring](https://www.elastic.co/observability-labs/blog/testing-monitoring-synthetic-monitoring) 
 - [My coworker Carly’s talk from DevOps.js](https://portal.gitnation.org/contents/synthetic-monitoring-and-e2e-testing-2-sides-of-the-same-coin-1979)
 - [Synthetics advent calendar 2023](https://discuss.elastic.co/t/dec-8th-2023-en-authentication-in-synthetic-monitoring-with-playwright-and-elastic-synthetics/347290)
 - [Synthetics advent calendar 2024](https://discuss.elastic.co/t/dec-1st-2024-en-monitor-the-opening-of-santa-toys-order-service/368424)
+- [Synthetics agent](https://github.com/elastic/synthetics)
